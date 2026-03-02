@@ -60,7 +60,7 @@ Model output includes:
 
 ## ⚙ Installation
 
-1. Clone repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git
@@ -71,12 +71,12 @@ cd Recommendation-System-Based-on-Association-Rules
 ```bash
 pip install -r requirements.txt
 
-3. Run Application
+3. Run the application
 
 ```bash
 streamlit run smart_chef_app.py
 
-4. Then open browser:
+4. Open in your browser
 
 ```bash
 http://localhost:8501
