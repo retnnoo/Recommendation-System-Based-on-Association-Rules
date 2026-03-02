@@ -60,23 +60,27 @@ Model output includes:
 
 ## ⚙ Installation
 
-### 1. Clone the repository
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git](https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git)
+   cd Recommendation-System-Based-on-Association-Rules
 
-```bash
-git clone https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git
-cd Recommendation-System-Based-on-Association-Rules
+```
 
-2. Install dependencies
-
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 
-3. Run the application
+```
 
+3. **Run the application**
 ```bash
 streamlit run smart_chef_app.py
 
-4. Open in your browser
+```
 
+4. **Open in your browser**
 ```bash
 http://localhost:8501
+
+```
