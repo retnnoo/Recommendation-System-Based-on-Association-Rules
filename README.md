@@ -68,12 +68,15 @@ cd Recommendation-System-Based-on-Association-Rules
 
 2. Install dependencies
 
+```bash
 pip install -r requirements.txt
 
 3. Run Application
 
+```bash
 streamlit run smart_chef_app.py
 
 4. Then open browser:
 
+```bash
 http://localhost:8501
