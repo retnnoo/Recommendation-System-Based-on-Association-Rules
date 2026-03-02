@@ -18,13 +18,14 @@ By analyzing ingredient patterns per country, the system can:
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🌟 1. Most Popular Ingredients
+### 1. Most Popular Ingredients
 - Displays Top 10 most frequent ingredients per country
 - Visualization using bar charts
+  ![Popular Ingredients](img/Screenshot 2026-03-02 110806.png)
 
-### 🥘 2. Recipe Recommendation
+### 2. Recipe Recommendation
 - Input up to 3 ingredients
 - Select country
 - Get recommended recipes
@@ -32,12 +33,15 @@ By analyzing ingredient patterns per country, the system can:
   - Match score
   - Missing ingredients
   - Ingredient coverage
+   ![Recipe Recommendation](img/Screenshot 2026-03-02 110904.png)
+   ![Recipe Recommendation](img/Screenshot 2026-03-02 110923.png)
 
-### ➕ 3. Add New Recipe
+### 3. Add New Recipe
 - Add new country
 - Add new recipe
 - Add ingredients (comma separated)
 - Saved automatically to `update_dataset.csv`
+  ![Add New Recipe](img/Screenshot 2026-03-02 111018.png)
 
 ---
 
