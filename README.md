@@ -61,7 +61,8 @@ Model output includes:
 ## ⚙ Installation
 
 1. **Clone the repository**
-```bashhttps://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git
+```bash
+git clone https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git
 cd Recommendation-System-Based-on-Association-Rules
 
 ```
