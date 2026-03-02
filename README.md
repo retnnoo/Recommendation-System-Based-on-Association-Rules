@@ -58,16 +58,22 @@ Model output includes:
 
 ---
 
-## 🛠 Tech Stack
+## ⚙ Installation
 
-- Python
-- Streamlit
-- Pandas
-- Mlxtend (Apriori)
-- Matplotlib
-- Seaborn
-- Pickle (Model Storage)
+1. Clone repository
 
----
+```bash
+git clone https://github.com/retnnoo/Recommendation-System-Based-on-Association-Rules.git
+cd Recommendation-System-Based-on-Association-Rules
 
-## 📂 Project Structure
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run Application
+
+streamlit run smart_chef_app.py
+
+4. Then open browser:
+
+http://localhost:8501
