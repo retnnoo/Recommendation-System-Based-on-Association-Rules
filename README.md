@@ -51,12 +51,18 @@ This system uses:
 - Support-based filtering
 - Ingredient similarity scoring
 
-Model output includes:
+**Dataset Southeast Asian Ingredient Pattern Dataset** 
+- https://www.kaggle.com/datasets/retnowardani/southeast-asian-ingredient-pattern-dataset
+
+**Model output includes:**
 
 - `frequent_itemsets_per_country`
 - `rules_per_country`
-
+  
 ---
+
+
+
 
 ## ⚙ Installation
 
